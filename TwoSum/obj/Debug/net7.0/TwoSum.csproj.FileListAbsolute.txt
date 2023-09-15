@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\LC_task\TwoSum\bin\Debug\net7.0\TwoSum.deps.json
+C:\Users\Vlad\source\repos\LC_task\TwoSum\bin\Debug\net7.0\TwoSum.dll
+C:\Users\Vlad\source\repos\LC_task\TwoSum\bin\Debug\net7.0\TwoSum.pdb
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.dll
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\refint\TwoSum.dll
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\TwoSum.pdb
+C:\Users\Vlad\source\repos\LC_task\TwoSum\obj\Debug\net7.0\ref\TwoSum.dll

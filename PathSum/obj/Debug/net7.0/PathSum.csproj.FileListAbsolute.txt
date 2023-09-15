@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\LC_task\PathSum\bin\Debug\net7.0\PathSum.deps.json
+C:\Users\Vlad\source\repos\LC_task\PathSum\bin\Debug\net7.0\PathSum.dll
+C:\Users\Vlad\source\repos\LC_task\PathSum\bin\Debug\net7.0\PathSum.pdb
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.dll
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\refint\PathSum.dll
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\PathSum.pdb
+C:\Users\Vlad\source\repos\LC_task\PathSum\obj\Debug\net7.0\ref\PathSum.dll

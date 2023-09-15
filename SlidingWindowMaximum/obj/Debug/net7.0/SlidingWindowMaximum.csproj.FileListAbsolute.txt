@@ -1,0 +1,14 @@
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\bin\Debug\net7.0\SlidingWindowMaximum.exe
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\bin\Debug\net7.0\SlidingWindowMaximum.deps.json
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\bin\Debug\net7.0\SlidingWindowMaximum.runtimeconfig.json
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\bin\Debug\net7.0\SlidingWindowMaximum.dll
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\bin\Debug\net7.0\SlidingWindowMaximum.pdb
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.dll
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\refint\SlidingWindowMaximum.dll
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.pdb
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\SlidingWindowMaximum.genruntimeconfig.cache
+C:\Users\Vlad\source\repos\LC_task\SlidingWindowMaximum\obj\Debug\net7.0\ref\SlidingWindowMaximum.dll

@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\bin\Debug\net7.0\MissingNumber.deps.json
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\bin\Debug\net7.0\MissingNumber.dll
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\bin\Debug\net7.0\MissingNumber.pdb
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.dll
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\refint\MissingNumber.dll
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\MissingNumber.pdb
+C:\Users\Vlad\source\repos\LC_task\MissingNumber\obj\Debug\net7.0\ref\MissingNumber.dll

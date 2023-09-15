@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\bin\Debug\net7.0\MoveZeroes.deps.json
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\bin\Debug\net7.0\MoveZeroes.dll
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\bin\Debug\net7.0\MoveZeroes.pdb
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.AssemblyInfo.cs
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.dll
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\refint\MoveZeroes.dll
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\MoveZeroes.pdb
+C:\Users\Vlad\source\repos\LC_task\MoveZeroes\obj\Debug\net7.0\ref\MoveZeroes.dll
